@@ -1,0 +1,3 @@
+[submodule "ace-income-expense-diverging-bar-chart"]
+	path = ace-income-expense-diverging-bar-chart
+	url = git@github.com:uninitlzd/ace-income-expense-diverging-bar-chart.git
